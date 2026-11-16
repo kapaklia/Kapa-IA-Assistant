@@ -1,4 +1,5 @@
 .env.example
+.github/FUNDING.yml
 .gitignore
 CHANGELOG.md
 CONTRIBUTING.md

@@ -13,6 +13,7 @@ from .app_paths import PROJECT_DIR
 VERSION = '0.1.0-alpha'
 ROOT_NAME = 'Kapa-' + VERSION
 PUBLIC_FILES = (
+    '.github/FUNDING.yml',
     'LICENSE',
     '.gitignore',
     'README.md',

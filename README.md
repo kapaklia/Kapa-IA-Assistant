@@ -182,6 +182,12 @@ The script name is historical; it builds an allowlisted source ZIP and tests its
 extracted copy. The source ZIP includes LICENSE. Asset provenance and dependency review are
 documented in THIRD_PARTY.md. Public release requires maintainer authorization.
 
+## Support the project
+
+If you find Kapa useful, you can support its development with a
+[voluntary donation via PayPal](https://paypal.me/LChiaraGianfreda).
+Donations are entirely optional and are not required to use Kapa.
+
 ## License and acknowledgements
 
 Kapa project code is licensed under the **GNU General Public License, version 3 only**
