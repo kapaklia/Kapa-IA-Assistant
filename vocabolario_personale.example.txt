@@ -1,0 +1,2 @@
+# Facoltativo: una voce per riga, solo sul PC di prova.
+# Salva come vocabolario_personale.txt; non distribuirlo.

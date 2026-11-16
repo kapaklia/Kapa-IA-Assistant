@@ -1,0 +1,4 @@
+# Dipendenze SOLO per la modalità vocale (python main.py --background).
+# Se usi solo la modalità testo non servono.
+faster-whisper
+numpy

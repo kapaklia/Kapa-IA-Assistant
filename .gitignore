@@ -1,0 +1,54 @@
+# Credenziali e configurazione privata
+.env
+.env.*
+!.env.example
+vocabolario_personale.txt
+
+# Dati utente: trascrizioni e conversazioni
+conversazioni/
+trascrizioni.log
+*.log
+
+# Cache e ambienti Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editor e file di backup
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Collegamento locale: contiene il percorso assoluto di questo PC
+/IA Assistant.desktop
+/Kapa.desktop
+
+# Registrazioni diagnostiche locali (contengono voce privata)
+.diagnostica_audio_attiva
+diagnostica_audio/
+
+# Audio, credenziali esportate e dati locali
+*.wav
+*.pem
+*.key
+conversazione_*.json
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+.tox/
+.nox/
+.DS_Store
+.aws/
+.codex/
+.agents/
+/MEMORIA_CONVERSAZIONI.md
+/RAPPORTO_PUBBLICAZIONE.md
+/MANIFEST.sha256

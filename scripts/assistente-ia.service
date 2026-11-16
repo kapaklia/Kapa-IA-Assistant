@@ -1,0 +1,19 @@
+# Modello: genera quello con i percorsi corretti usando:
+# .venv/bin/python scripts/setup_assistant.py --print-service
+# Non installare questo modello senza adattare i percorsi.
+[Unit]
+Description=Kapa vocale
+After=graphical-session.target
+PartOf=graphical-session.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/Kapa
+ExecStart="%h/Kapa/.venv/bin/python" "%h/Kapa/main.py" --background
+Environment=PYTHONUNBUFFERED=1
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=90
+
+[Install]
+WantedBy=graphical-session.target

@@ -1,0 +1,164 @@
+# Vocabolario condiviso di Kapa: italiano + inglese tecnico.
+# Una voce per riga. I gruppi indicano la priorità, non sono comandi obbligatori.
+# A Whisper viene inviato soltanto un estratto breve per evitare confusione.
+# Per nomi personali, artisti e giochi usare vocabolario_personale.txt.
+
+[comandi]
+metti play
+metti pausa
+riprendi la riproduzione
+ferma la musica
+alza il volume
+abbassa il volume
+abbassa il volume del venti per cento
+alza il volume del dieci per cento
+silenzia l'audio
+togli il mute
+brano successivo
+traccia precedente
+apri Firefox
+apri il browser
+cerca un'applicazione
+installa un'applicazione
+aggiorna il sistema
+fai uno screenshot
+registra lo schermo
+salva il replay
+crea un file di testo
+apri la cartella Download
+copia il file
+sposta il file
+rinomina il file
+leggi il documento
+
+[multimedia]
+play
+pause
+resume
+stop
+mute
+unmute
+volume
+playlist
+YouTube
+Spotify
+VLC
+Discord
+OBS Studio
+GPU Screen Recorder
+replay buffer
+screenshot
+streaming
+microfono
+cuffie
+altoparlanti
+
+[applicazioni]
+Firefox
+Chromium
+Chrome
+Brave
+Thunderbird
+Steam
+Lutris
+Heroic Games Launcher
+GIMP
+Krita
+Blender
+Kdenlive
+Audacity
+LibreOffice
+Kate
+Dolphin
+Konsole
+Visual Studio Code
+
+[sistema]
+Linux
+Nobara
+Fedora
+Ubuntu
+Debian
+Arch Linux
+KDE Plasma
+GNOME
+Wayland
+X11
+PipeWire
+PulseAudio
+ALSA
+Flatpak
+AppImage
+Snap
+DNF
+APT
+Pacman
+nobara-sync
+sudo
+repository
+terminale
+kernel
+driver
+aggiornamento
+installazione
+
+[rete]
+Wi-Fi
+Bluetooth
+Ethernet
+USB
+HDMI
+DNS
+VPN
+indirizzo IP
+router
+firewall
+server
+SSH
+GitHub
+Docker
+
+[file]
+file
+cartella
+scrivania
+Download
+Documenti
+Immagini
+Video
+Musica
+PDF
+ZIP
+TXT
+JSON
+Python
+script
+backup
+copia
+sposta
+rinomina
+elimina
+incolla
+appunti
+
+[inglese]
+open
+close
+install
+update
+search
+start
+launch
+record
+save
+copy
+paste
+folder
+file
+browser
+game
+settings
+shortcut
+hotkey
+recording
+screenshot

@@ -1,0 +1,2 @@
+# Facoltativo: il runner unittest non richiede pytest.
+pytest>=8,<10
